@@ -5,6 +5,7 @@ using namespace std;
 // ISSA MARTINEZ, OSCAR CASTELLANOS 
 // Test Commit
 // Test Commit 2
+// Test Commit 3
 
 // TODO: Step 1 - Define the struct TemperatureRecord
 // It should contain two integer fields: day and temperature.
